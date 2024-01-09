@@ -4,7 +4,7 @@ A room chat messenger built using React JS and firebase.
 
 ## Components
 
-### 1.Frontend
+#### 1.Frontend
 This is the user interface that users interact with. It is built using React and consists of several components, including:
 
 > Authentication component: This component handles user login and authentication using Firebase Authentication.
@@ -13,14 +13,14 @@ This is the user interface that users interact with. It is built using React and
 
 > Chat component: This component displays the chat messages and allows users to send new messages
 
-### 2.Firebase
+#### 2.Firebase
 This is the backend that provides the data storage and authentication for the application. It consists of two main components:
 
 > Firebase Authentication: This service handles user login and authentication.
 
 > Firestore: This is a NoSQL database that stores the chat messages for each room.
 
-### 3.Cookies 
+#### 3.Cookies 
 The application uses cookies to store the user's authentication token. This allows the user to stay logged in even if they refresh the page.
 
 
